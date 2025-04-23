@@ -1,4 +1,6 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 $posts = [];
 if (($handle = fopen("blog_data.csv", "r")) !== FALSE) {
     $headers = fgetcsv($handle);
