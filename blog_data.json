@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Getting Started with JavaScript",
+        "excerpt": "Learn the basics of JavaScript programming",
+        "description": "<p>This is a full guide to JavaScript basics. You'll learn about variables, functions, and more.</p><p>JavaScript is the language of the web!</p>",
+        "author": "John Doe",
+        "date": "2025-04-20",
+        "image": "https://source.unsplash.com/random/600x400/?javascript"
+    },
+    {
+        "id": 2,
+        "title": "Responsive Design Principles",
+        "excerpt": "Make your websites work on all devices",
+        "description": "<p>Responsive design is essential in today's multi-device world.</p><p>Learn how to use media queries and flexible layouts.</p>",
+        "author": "Jane Smith",
+        "date": "2025-04-18",
+        "image": "https://source.unsplash.com/random/600x400/?design"
+    }
+]
